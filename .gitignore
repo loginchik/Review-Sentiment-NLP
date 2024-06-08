@@ -1,0 +1,12 @@
+.env
+
+__pycache__/
+.idea/
+.DS_Store
+
+*.json
+*.pickle
+*.csv
+
+env/
+venv/
